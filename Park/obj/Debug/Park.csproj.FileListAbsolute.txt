@@ -1,0 +1,11 @@
+C:\Users\agung\Documents\00 COLLEGE\Pemrograman dasar\TESTING\Park\Park\bin\Debug\Park.exe.config
+C:\Users\agung\Documents\00 COLLEGE\Pemrograman dasar\TESTING\Park\Park\bin\Debug\Park.exe
+C:\Users\agung\Documents\00 COLLEGE\Pemrograman dasar\TESTING\Park\Park\bin\Debug\Park.pdb
+C:\Users\agung\Documents\00 COLLEGE\Pemrograman dasar\TESTING\Park\Park\obj\Debug\Park.csproj.AssemblyReference.cache
+C:\Users\agung\Documents\00 COLLEGE\Pemrograman dasar\TESTING\Park\Park\obj\Debug\Park.csproj.SuggestedBindingRedirects.cache
+C:\Users\agung\Documents\00 COLLEGE\Pemrograman dasar\TESTING\Park\Park\obj\Debug\Park.Form1.resources
+C:\Users\agung\Documents\00 COLLEGE\Pemrograman dasar\TESTING\Park\Park\obj\Debug\Park.Properties.Resources.resources
+C:\Users\agung\Documents\00 COLLEGE\Pemrograman dasar\TESTING\Park\Park\obj\Debug\Park.csproj.GenerateResource.cache
+C:\Users\agung\Documents\00 COLLEGE\Pemrograman dasar\TESTING\Park\Park\obj\Debug\Park.csproj.CoreCompileInputs.cache
+C:\Users\agung\Documents\00 COLLEGE\Pemrograman dasar\TESTING\Park\Park\obj\Debug\Park.exe
+C:\Users\agung\Documents\00 COLLEGE\Pemrograman dasar\TESTING\Park\Park\obj\Debug\Park.pdb
