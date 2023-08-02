@@ -7,4 +7,4 @@ buat tabel dengan nama "park" yg berisi 5 kolom dengan nama seprti berikut:
 ![odbc](https://github.com/AgungSukaAFK/pemrogamanDasarParkir/blob/main/odbc.PNG)
 
 ## XAMPP
-![odbc](https://github.com/AgungSukaAFK/pemrogamanDasarParkir/blob/main/XAMPP.PNG)
+![odbc](https://github.com/AgungSukaAFK/pemrogamanDasarParkir/blob/main/xampp.PNG)
