@@ -1,5 +1,5 @@
 ## Database
-Buat database bernama dbpendaftaran
+Buat database bernama "pendaftaran"  
 buat tabel dengan nama "park" yg berisi 5 kolom dengan nama seprti berikut:
 ![Db](https://github.com/AgungSukaAFK/pemrogamanDasarParkir/blob/main/database.PNG)
 
